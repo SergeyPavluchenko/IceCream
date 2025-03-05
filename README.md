@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![image](https://user-images.githubusercontent.com/94438982/179910317-472de8a8-1293-48b2-850c-c77eecd2492d.png)
 
 ![icons8-html-5-48](https://user-images.githubusercontent.com/94438982/179913165-faaaef26-6065-4271-9833-ed19fb43f3fd.png)
@@ -27,3 +28,6 @@ Team List:
 8.  https://github.com/SergeyPavluchenko  Developer
 9.  https://github.com/DiCumbrr           Developer
 10. https://github.com/Ra4kovi4           Developer
+=======
+readme
+>>>>>>> 499bb6825cc8239d268bdd9ae998724b7b5167f5

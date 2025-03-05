@@ -2,14 +2,14 @@
   "name": "command-project-icecream",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://lefter011.github.io/command-project-icecream/",
+  "homepage": "https://SergeyPavluchenko.github.io/IceCream/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /command-project-icecream/"
+    "build": "parcel build src/*.html --public-url /IceCream/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lefter011/command-project-icecream"
+    "url": "git+https://github.com/SergeyPavluchenko/IceCream"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
