@@ -4,9 +4,15 @@ on:
   push:
     branches: [main]
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
@@ -22,3 +28,4 @@ jobs:
           branch: gh-pages
           folder: dist
           clean: true
+          token: ${{ secrets.GITHUB_TOKEN }}
